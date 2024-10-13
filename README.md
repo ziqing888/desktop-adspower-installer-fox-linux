@@ -1,0 +1,1 @@
+# desktop-adspower-installer-fox-linux
